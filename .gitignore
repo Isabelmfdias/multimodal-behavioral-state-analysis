@@ -1,0 +1,28 @@
+# Real project data
+Dataset_feb/
+
+# Generated outputs containing real or derived participant data
+outputs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Environment files
+.env
+.venv/
+venv/
